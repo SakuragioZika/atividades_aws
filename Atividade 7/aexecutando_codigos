@@ -1,0 +1,12 @@
+Primeiro no Terminal Bash execute o seguinte comando:
+
+pip install pandas numpy
+
+após isso, verifique se você está no diretório correto.
+
+depois vai executando os códigos de cada atividade:
+
+python problema1.py
+python problema2.py
+python problema3.py
+python problema4.py

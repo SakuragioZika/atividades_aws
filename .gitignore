@@ -33,3 +33,7 @@ npm-debug.log*
 # Atividade 6 
 /Atividade 6/node_modules/Atividade 1/dist
 /Atividade 6/.env
+
+# Atividade 7 
+/Atividade 7/node_modules/Atividade 1/dist
+/Atividade 7/.env
